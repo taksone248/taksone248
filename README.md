@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @taksone248
+- 👀 I’m interested in ...learning how to use kodi
+- 🌱 I’m currently learning ...the basics i cant even install a repository yet
